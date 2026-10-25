@@ -6,11 +6,6 @@
 
 📍 Pune, India · Open to Opportunities Across India
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/shivsarode)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivam-sarode-778443319/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivsarode9921@gmail.com)
-[![Playwright](https://img.shields.io/badge/Playwright-Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
-
 ---
 
 ## 👨‍💻 About Me
@@ -35,40 +30,46 @@ I believe good automation is not just about writing scripts — it's about makin
 
 ### 🧪 Test Automation & Frameworks
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FFB000?logoColor=black)
-![POM](https://img.shields.io/badge/Page%20Object%20Model-Reusable%20Design-blue)
+- Playwright
+- Selenium WebDriver
+- Cucumber BDD
+- Page Object Model (POM)
+- Data-Driven Testing
+- UI Automation & Regression Testing
 
 ### 💻 Programming & Scripting
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+- JavaScript
+- Java
+- TypeScript fundamentals
 
 ### 🌐 API & Data Testing
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-Testing-6BA539)
-![AJV](https://img.shields.io/badge/AJV-JSON%20Schema-5B5B5B)
+- REST API Testing
+- Postman
+- API Automation Utilities
+- Request/Response Validation
+- MySQL
 
 ### ⚙️ DevOps, Reporting & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![Allure](https://img.shields.io/badge/Allure-Reporting-FF6A00)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![MCP](https://img.shields.io/badge/Playwright-MCP-7B61FF)
-
-**Additional tools:** Maven, TestNG, MySQL, JIRA, Faker.js, dotenv and Playwright debugging tools.
+- Git & GitHub
+- GitHub Actions
+- Jenkins
+- Maven
+- TestNG
+- Allure Reporting
+- JIRA
+- Faker.js
+- dotenv
+- Playwright Trace Viewer
 
 ---
 
 ## 💼 Professional Experience
 
 ### 🔹 QA Automation Engineer — Zoop.One
+
 *August 2025 – February 2026*
 
 Worked on an e-signature and e-stamping platform, supporting UI/API automation and release validation.
@@ -80,6 +81,7 @@ Worked on an e-signature and e-stamping platform, supporting UI/API automation a
 - Worked with Git, CI/CD workflows and automation framework maintenance.
 
 ### 🔹 QA Automation Engineer — Capgemini
+
 *March 2022 – July 2024*
 
 Worked on the Honeywell e-commerce application across functional testing and automation.
@@ -90,6 +92,7 @@ Worked on the Honeywell e-commerce application across functional testing and aut
 - Performed manual functional testing, regression testing, test-case design and database validation.
 
 ### 🔹 QA Internship — Test Yantra
+
 *May 2021 – February 2022*
 
 Gained practical exposure to software testing fundamentals, test execution and QA workflows.
@@ -112,7 +115,7 @@ My primary QA automation portfolio project, focused on maintainable UI and API a
 - Reporting and debugging configuration.
 - Playwright MCP setup for AI-assisted browser inspection.
 
-🔗 **[View Repository](https://github.com/shivsarode/sdet-playwright-automation-framework)**
+🔗 [**View Repository**](https://github.com/shivsarode/sdet-playwright-automation-framework)
 
 ### 2. 🛒 SauceDemo Checkout Automation
 
@@ -125,7 +128,7 @@ A focused automation exercise for validating an e-commerce checkout journey.
 - Checkout form and order summary validation.
 - Order completion verification.
 
-🔗 **[View GitHub Projects](https://github.com/shivsarode)**
+🔗 [**View GitHub Projects**](https://github.com/shivsarode)
 
 ### 3. 🧪 Surpluss QA Automation Assessment
 
@@ -133,7 +136,7 @@ A focused automation exercise for validating an e-commerce checkout journey.
 
 A QA automation assessment project involving local environment setup, database configuration, application execution and Playwright test validation.
 
-🔗 **[Explore My Repositories](https://github.com/shivsarode?tab=repositories)**
+🔗 [**Explore My Repositories**](https://github.com/shivsarode?tab=repositories)
 
 ---
 
@@ -148,18 +151,6 @@ I'm exploring how AI tools can support test automation without replacing determi
 - Understanding the limitations of AI-generated actions and validating outcomes independently.
 
 My focus is on practical, verifiable use cases rather than claiming fully autonomous or self-healing testing capabilities.
-
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivsarode&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivsarode&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shivsarode&theme=tokyonight&hide_border=true)
-
-*These cards are generated by external services. Their availability and displayed metrics may vary.*
 
 ---
 
@@ -178,10 +169,10 @@ My focus is on practical, verifiable use cases rather than claiming fully autono
 
 I'm open to conversations about QA automation, Playwright, Selenium, API testing, automation framework design and freelance opportunities.
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/shivam-sarode-778443319/
-- 🐙 **GitHub:** https://github.com/shivsarode
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/shivam-sarode-778443319/](https://www.linkedin.com/in/shivam-sarode-778443319/)
+- 🐙 **GitHub:** [https://github.com/shivsarode](https://github.com/shivsarode)
 - 📧 **Email:** [shivsarode9921@gmail.com](mailto:shivsarode9921@gmail.com)
-- 🚀 **Main Automation Project:** https://github.com/shivsarode/sdet-playwright-automation-framework
+- 🚀 **Main Automation Project:** [https://github.com/shivsarode/sdet-playwright-automation-framework](https://github.com/shivsarode/sdet-playwright-automation-framework)
 - 📍 **Location:** Pune, India
 - 🌍 **Availability:** Open to opportunities across India
 
@@ -192,3 +183,5 @@ I'm open to conversations about QA automation, Playwright, Selenium, API testing
 If you're interested in practical test automation, maintainable frameworks or QA engineering, feel free to explore my repositories and connect.
 
 **Build reliable tests. Find meaningful bugs. Ship with confidence.** 🚀
+
+📱 **Phone:** +91-7776096778
